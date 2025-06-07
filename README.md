@@ -5,3 +5,4 @@ Database migration log
 Unit test coverage report
 API rate limiting config
 Dependency update summary
+Performance tuning log
